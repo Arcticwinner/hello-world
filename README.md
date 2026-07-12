@@ -1,3 +1,1 @@
 Hello, World!
-I might be a software developer capable of writing "Hello, World!" In two differnet languages.
-But you never know...
